@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "梨",
+      "price": "8",
+      "imgsrc": "img/2.jpg",
+      "id": 2
+    },
+    {
+      "name": "苹果",
+      "price": "10",
+      "imgsrc": "img/1.jpg",
+      "id": 4
+    }
+  ]
+}
